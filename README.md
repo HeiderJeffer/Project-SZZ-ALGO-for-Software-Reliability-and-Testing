@@ -1,6 +1,6 @@
 # Project SZZ Algorithm for Software Reliability and Testing
 
-Free University of Bozen-Bolzano - Faculty of Computer Science
+## Free University of Bozen-Bolzano - Faculty of Computer Science Fakultät für InformatikFreie Universität Bozen
 
 When Was Bug Introduced & Who Was Responsible? SZZ Algorithm Feasible Automatic Solution for the Bug Problem
 
