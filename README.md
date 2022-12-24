@@ -9,15 +9,22 @@ When Was Bug Introduced & Who Was Responsible? SZZ Algorithm Feasible Automatic 
 
 Developer
 Heider Jeffer
+
 Fakultät für Informatik
+
 Freie Universität Bozen
+
 Hjeffer@unibz.it
 
 
 Supervisor
+
 Professor Barbara Russo
+
 Fakultät für Informatik
+
 Freie Universität Bozen
+
 Barbara.Russo@unibz.it
 
 
