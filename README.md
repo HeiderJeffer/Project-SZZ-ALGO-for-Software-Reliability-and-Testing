@@ -1,4 +1,10 @@
 # Project SZZ Algorithm for Software Reliability and Testing
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/SZZ-Algorithm-for-Software-Reliability-and-Testing/" alt = "Visitors-Counter"/>
+</body>
+
+
 - Free University of Bozen-Bolzano - Faculty of Computer Science - Fakultät für InformatikFreie Universität Bozen
 - When Was Bug Introduced & Who Was Responsible? SZZ Algorithm Feasible Automatic Solution for the Bug Problem
 - [HERE you can view or download the project Documentation in PDF format!!](https://github.com/HeiderJeffer/Project-SZZ-Algorithm-for-Software-Reliability-and-Testing/blob/main/SZZ%20Solution%20Video%20%2B%20Document%20%20by%20Heider%20Jeffer/Project%20DOC.pdf) and 
