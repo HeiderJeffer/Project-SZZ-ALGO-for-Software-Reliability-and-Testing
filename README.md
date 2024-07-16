@@ -90,12 +90,8 @@ We have presented our research findings through both written explanations and me
 9.  Output analysis: Similarity and dissimilarities between Eclipse and
     Mozilla.
 
-# MODEL
 
-> For this project, we design two models: Model 1which represent life
-> cycle of bugs & Model 2 which represent the SZZ algorithm.
-
-# MODEL 1-LIFE CYCLE OF BUG
+#### LIFE CYCLE OF BUG
 
 > Model 1 represent the definition of the life cycle of the bug:
 
@@ -114,7 +110,7 @@ style="width:3.00445in;height:1.6875in" />
 
 > *Figure 1 LIFE CYCLE OF BUG by Heider Jeffer*
 
-# MODEL 2 SZZ ALGORITHM
+#### SZZ ALGORITHM
 
 > Model 2 is the definition for the SZZ algorithm. Model 2 will start
 > when the Model 1 is End.
@@ -143,7 +139,7 @@ style="width:3.00445in;height:1.6875in" />
 > *“In this project we assume that the changes between Fixed Bug and
 > Bug-Reported is the False Changes, therefore we remove it.”*
 
-# DEFINITION1: FIXED BUG & BUG REPORTED
+#### FIXED BUG & BUG REPORTED
 
 > The FIXED BUG and BUG REPORTED are two information that we know. In
 > this project we want to find the link (relation) between these two
@@ -164,7 +160,7 @@ style="width:3.00445in;height:1.6875in" />
 > The link (relation) between FIXED BUG and BUG REPORTED is a sequence
 > of revisions that had been changed.
 
-# FOR A SHORTCUT WHY WE DON’T SZZ START IMIDIATLY FROM BUG REPORTED?
+# FOR A SHORTCUT WHY DOESN’T SZZ START IMMEDIATELY FROM BUG REPORTED?
 
 > SZZ can’t start immediately from Bug Reported because the Bug Reported
 > is not define. SZZ must start from FIXED BUG even if the revision
@@ -173,7 +169,7 @@ style="width:3.00445in;height:1.6875in" />
 > any algorithm that solve the tracking / locating problem(e.g. Big M
 > algorithm non B.V.).
 
-# DEFINITION 2: REMOVE FALSE CHANGES
+#### REMOVE FALSE CHANGES
 
 > BUG-INTRODUCING CHANGE is the revision
 >
@@ -185,7 +181,7 @@ style="width:3.00445in;height:1.6875in" />
 > style="width:3in;height:1.685in" />*Figure 3 BUG-INTRODUCING CHANGE &
 > REMOVE FALSE*
 >
-> *CHANGES by Heider Jeffer*
+> *CHANGES*
 >
 > In our project we will start from BUG REPORTED and moving backward.
 > Our algorithm will ignore the revisions that not include changed. The
@@ -201,7 +197,7 @@ style="width:3in;height:1.6875in" />
 > False Changes are the changes between Fixed Bug and Bug Reported. We
 > will remove all false changes.
 
-# DEFINITION 3: SZZ TOOL
+# SZZ TOOL
 
 > DIFF command is a tool that calculates and displays the differences
 > between two revisions and the output is the colored lines represent
