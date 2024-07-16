@@ -42,57 +42,30 @@ href="mailto:Barbara.Russo@unibz.it"><u>Barbara.Russo@unibz.it</u></a></p>
 - [HERE you can view or download the project Documentation in PDF format!!](https://github.com/HeiderJeffer/Project-SZZ-Algorithm-for-Software-Reliability-and-Testing/blob/main/SZZ%20Solution%20Video%20%2B%20Document%20%20by%20Heider%20Jeffer/Project%20DOC.pdf) and 
 - [HERE you can download the Project in Video in MP4 format!!](https://github.com/HeiderJeffer/Project-SZZ-Algorithm-for-Software-Reliability-and-Testing/blob/main/SZZ%20Solution%20Video%20%2B%20Document%20%20by%20Heider%20Jeffer/Project%20Video.mp4)
 
-# ABSTRACT
+ ### Understanding Software Bugs and the SZZ Algorithm
 
-> software bug is an error, flaw, failure or fault in a computer program
-> or system that causes it to produce an incorrect or unexpected result,
-> or to behave in unintended ways. The term "bug" to describe defects
-> has been a part of engineering jargon since the 1870s
->
-> and predates electronic computers and computer software; it may have
-> originally been used in hardware engineering to describe mechanical
-> malfunctions. For instance, Thomas Edison wrote the following words in
-> a letter to an associate in 1878: \[It has been just so in all of my
-> inventions. The first step is an intuition, and
->
-> comes with a burst, then difficulties arise—this thing gives out and
-> \[it is\] then that "Bugs"\]. **When Was Bug Introduced & Who Was
-> Responsible?** Why do we think that the questions of this project are
-> worth to ask? “Some software bugs have been linked to disasters. Bugs
-> in code that controlled the Therac-25 radiation therapy machine were
-> directly responsible for patient deaths in the 1980s. In 1996, the
-> European Space Agency's US\$1 billion prototype Ariane 5 rocket had to
-> be destroyed less than a minute after launch due to a bug in the
-> on-board guidance computer program. In June 1994, a Royal Air Force
-> Chinook helicopter crashed into the Mull of Kintyre, killing 29. This
-> was initially dismissed as pilot error, but an investigation by
-> Computer Weekly convinced a House of Lords inquiry that it may have
-> been caused by a software bug in the aircraft's engine-control
-> computer \[Barbara Russo\].”
->
-> In this research we will introduce the SZZ algorithm as a feasible
-> solution for the bug problem. We also use media player to represent
-> our research problem, solution and formula that we used in this paper.
->
-> SZZ algorithm provides a process for automatically identifying the
-> fix-inducing predecessor lines to lines that are changed in a
-> bug-fixing commit. SZZ algorithm provides a processes for
-> automatically identifying the fix-inducing predecessor lines to lines
-> that are changed in a bug-fixing-commit. For this analysis we need to
-> know all the changes and all fixes of project. We get this data from
-> version archive like CVS and bug tracking systems like BUGZILLA. As a
-> result. We will successfully answer the research questions; when bug
-> was introduced & who was responsible. Finally. The SZZ algorithm still
-> not perfect but better than anything existing so far and therefore 0ur
-> future work is looking forward to make more progressive to improve the
-> SZZ algorithm in term of precise and accuracy.
->
-> In this research we introduced our solution for the research question
-> by written solution with media graphic form. We believe that our media
-> graphic form will make our research easy to understand by the decision
-> makers of the software industries or the shareholder, our media
-> graphic form will explain all our complex implementations in a simple
-> way.
+A software bug is an error, flaw, failure, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. The term "bug" to describe such defects has been part of engineering jargon since the 1870s, long before the advent of electronic computers and software. It likely originated in hardware engineering to describe mechanical malfunctions. For example, Thomas Edison wrote in a letter to an associate in 1878: "It has been just so in all of my inventions. The first step is an intuition, and comes with a burst, then difficulties arise—this thing gives out and then that 'Bugs'."
+
+### Historical Impact of Software Bugs
+
+Software bugs have been linked to significant disasters. Some notable examples include:
+- **Therac-25 Radiation Therapy Machine (1980s)**: Bugs in the code controlling this machine led to patient deaths.
+- **Ariane 5 Rocket (1996)**: A bug in the on-board guidance computer program caused the European Space Agency's US$1 billion prototype rocket to be destroyed less than a minute after launch.
+- **RAF Chinook Helicopter Crash (1994)**: Initially dismissed as pilot error, an investigation suggested that a software bug in the aircraft's engine-control computer may have caused the crash, killing 29 people.
+
+### Introducing the SZZ Algorithm
+
+In this research, we propose the SZZ algorithm as a viable solution to address software bugs. We illustrate our problem, solution, and the methodology used through a media player for clarity.
+
+The SZZ algorithm automatically identifies the fix-inducing predecessor lines that are changed in a bug-fixing commit. For this analysis, we need comprehensive data on all changes and fixes in a project, which we obtain from version archives like CVS and bug tracking systems like Bugzilla. This approach helps us answer key research questions: when was the bug introduced, and who was responsible?
+
+### Future Directions and Improvements
+
+Although the SZZ algorithm is not perfect, it is currently the best available method for identifying bug-inducing changes. Our future work will focus on enhancing the algorithm's precision and accuracy.
+
+### Communicating Our Findings
+
+We have presented our research findings through both written explanations and media graphics. We believe this multimedia approach will make our research more accessible to decision-makers in the software industry and shareholders, clearly explaining our complex implementations in an easy-to-understand format.
 
 # MODELS & DEFINITIONS
 
