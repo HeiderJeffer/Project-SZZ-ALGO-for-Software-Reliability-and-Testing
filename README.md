@@ -1,3 +1,8 @@
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/SZZ-Algorithm-for-Software-Reliability-and-Testing/" alt = "Visitors-Counter"/>
+</body>
+
+
 > ***Acknowledgements***
 >
 > ***Professor Barbara Russo has been the ideal supervisor. Her sage
@@ -33,6 +38,9 @@ href="mailto:Barbara.Russo@unibz.it"><u>Barbara.Russo@unibz.it</u></a></p>
 </table>
 
 > **Document Status: \[processed\] 2018 November 26th**
+
+- [HERE you can view or download the project Documentation in PDF format!!](https://github.com/HeiderJeffer/Project-SZZ-Algorithm-for-Software-Reliability-and-Testing/blob/main/SZZ%20Solution%20Video%20%2B%20Document%20%20by%20Heider%20Jeffer/Project%20DOC.pdf) and 
+- [HERE you can download the Project in Video in MP4 format!!](https://github.com/HeiderJeffer/Project-SZZ-Algorithm-for-Software-Reliability-and-Testing/blob/main/SZZ%20Solution%20Video%20%2B%20Document%20%20by%20Heider%20Jeffer/Project%20Video.mp4)
 
 # ABSTRACT
 
